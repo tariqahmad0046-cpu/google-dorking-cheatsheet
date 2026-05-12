@@ -1,0 +1,9 @@
+intitle:"index of"
+intext:"sql syntax near"
+intext:"Warning: mysql"
+ext:env
+ext:log
+ext:sql
+ext:bak
+inurl:config
+inurl:backup
