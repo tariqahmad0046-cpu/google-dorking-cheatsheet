@@ -1,0 +1,5 @@
+site:example.com ext:sql
+site:example.com ext:zip
+site:example.com ext:bak
+site:example.com ext:log
+site:example.com ext:env
