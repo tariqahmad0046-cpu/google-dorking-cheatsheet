@@ -1,0 +1,5 @@
+site:example.com inurl:api
+site:example.com inurl:v1
+site:example.com inurl:v2
+site:example.com inurl:graphql
+site:example.com inurl:swagger
