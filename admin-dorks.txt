@@ -1,0 +1,6 @@
+site:example.com inurl:admin
+site:example.com inurl:login
+intitle:"admin login"
+inurl:dashboard
+inurl:cpanel
+inurl:administrator
