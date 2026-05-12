@@ -1,0 +1,5 @@
+site:example.com filetype:pdf
+site:example.com filetype:docx
+site:example.com filetype:xlsx
+site:example.com ext:txt
+site:example.com ext:csv
